@@ -2,65 +2,42 @@
 # 2025-05-18
 # Author: Hardy Fernandes
 
-This is a basic HTML project created as part of The Odin Project curriculum. The goal of this project is to build a simple recipe website using only HTML.
+# 🍽️ Odin Recipes
+Welcome to **Odin Recipes**, a beginner web development project from [The Odin Project](https://www.theodinproject.com/). This project focuses on building a basic recipe website using only **HTML**.
 
-🔧 Project Description
-This website includes:
+## 📌 Project Desciption
+The goal of this project is to create a simple multi-page website that showcases a collection of recipes. 
 
-A main homepage
+It includes a main homepage and individual recipe pages that contain:
 
-Links to multiple recipe pages
+- Titles and headings: A recipe title
+- Paragraphs: A description/ Step-by-step cooking instructions
+- Images
+- Ordered and unordered lists: Ingredients list
+- Internal links: Links to multiple recipe pages
 
-Each recipe page includes:
+## 🎯 Skills Demonstrated
+This project helps reinforce knowledge by completing it, and will demonstrated the ability to:
+- Structure a website using HTML: Basic HTML structure
+- Link between multiple pages using relative paths: Anchor tags and linking between pages
+- Use semantic HTML elements correctly
+- Embed and display images on a webpage: Image embedding
+- Organize content using lists and headings: Lists and headings
 
-A recipe title
+## 🪞 Self-Reflection
+(Complete this section after finishing the project)
+> This project helped reinforce the foundational skills of HTML. I gained confidence in creating and linking multiple HTML pages, structuring content with semantic tags, and working with basic file organization. It's a great stepping stone before moving on to CSS and JavaScript.
 
-A description
+## 📂 Project Files
+- `index.html` – Main homepage
+- `recipes/` – Folder containing individual recipe pages
+- `images/` – Folder containing images used on the site
 
-Ingredients list
-
-Step-by-step cooking instructions
-
-This project helps reinforce knowledge of:
-
-Basic HTML structure
-
-Anchor tags and linking between pages
-
-Lists and headings
-
-Image embedding
-
-📁 Project Structure
-markdown
-Copy
-Edit
-odin-recipe/
-├── index.html
-├── recipes/
-│   ├── lasagna.html
-│   ├── pancakes.html
-│   └── salad.html
-└── images/
-    ├── lasagna.jpg
-    ├── pancakes.jpg
-    └── salad.jpg
-
-🛠 Skills Used
-HTML5
-
-Semantic markup
-
-Internal linking
-
-🚀 Getting Started
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/hardyrany/odin-recipe.git
-Open index.html in your browser to explore the recipe site.
+## 🚀 Getting Started
+To view this project locally:
+1. Clone the repository using 'git clone https://github.com/hardyrany/odin-recipe.git'
+2. Open 'index.html' in a web browser to view and explore the recipe site.
+3. Navigate to individual recipe pages by clicking on the links
 
 📚 Acknowledgments
 Project from The Odin Project
