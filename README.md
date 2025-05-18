@@ -45,6 +45,7 @@ odin-recipe/
     ├── lasagna.jpg
     ├── pancakes.jpg
     └── salad.jpg
+
 🛠 Skills Used
 HTML5
 
@@ -58,7 +59,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/odin-recipe.git
+git clone https://github.com/hardyrany/odin-recipe.git
 Open index.html in your browser to explore the recipe site.
 
 📚 Acknowledgments
