@@ -35,7 +35,7 @@ This project helps reinforce knowledge by completing it, and will demonstrated t
 
 ## 🚀 Getting Started
 To view this project locally:
-1. Clone the repository using 'git clone https://github.com/hardyrany/odin-recipe.git'
+1. Clone the repository using 'git clone https://github.com/hardyrany/odin-recipes.git'
 2. Open 'index.html' in a web browser to view and explore the recipe site.
 3. Navigate to individual recipe pages by clicking on the links
 
